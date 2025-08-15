@@ -1,0 +1,1 @@
+Litt bundles Lit 3.3.1 and Lit Task 3.1.0 into an ES2019-transpiled package that will work with somewhat older browsers not natively supporting ES2021 `??=`, such as Chrome 83 embeeded in CsoundQT (1.1.3 at the time of this writing).

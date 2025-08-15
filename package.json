@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "esbuild": "0.25.9"
+  },
+  "dependencies": {
+    "@lit/context": "^1.1.6",
+    "@lit/localize": "^0.12.2",
+    "@lit/task": "^1.0.3",
+    "lit": "^3.3.1"
+  }
+}
